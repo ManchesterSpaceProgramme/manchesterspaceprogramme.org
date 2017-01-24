@@ -1,0 +1,62 @@
+Title: Manchester Space Programme
+
+----
+
+Head-title: A sight for the stars
+
+----
+
+Head-text: This space programme was launched by a small community group on a Thursday night in 2013 in the heart of Manchester. The aim was quite simple, let’s get something into space and join the race of other people trying to do the same around the world.
+
+----
+
+Tiles: 
+
+- 
+  tile_title: Missions
+  tile_style: style1
+  tile_cover: pic01.jpg
+  tile_text: >
+    Sed nisl arcu euismod sit amet nisi
+    lorem etiam dolor veroeros et feugiat.
+  tile_page: tiles/magna
+- 
+  tile_title: Lorem
+  tile_style: style2
+  tile_cover: pic02.jpg
+  tile_text: >
+    Sed nisl arcu euismod sit amet nisi
+    lorem etiam dolor veroeros et feugiat.
+  tile_page: tiles/lorem
+- 
+  tile_title: Feugiat
+  tile_style: style3
+  tile_cover: pic03.jpg
+  tile_text: >
+    Sed nisl arcu euismod sit amet nisi
+    lorem etiam dolor veroeros et feugiat.
+  tile_page: tiles/feugiat
+- 
+  tile_title: Tempus
+  tile_style: style4
+  tile_cover: pic04.jpg
+  tile_text: >
+    Sed nisl arcu euismod sit amet nisi
+    lorem etiam dolor veroeros et feugiat.
+  tile_page: tiles/tempus
+- 
+  tile_title: Aliquam
+  tile_style: style5
+  tile_cover: pic05.jpg
+  tile_text: >
+    Sed nisl arcu euismod sit amet nisi
+    lorem etiam dolor veroeros et feugiat.
+  tile_page: tiles/aliquam
+- 
+  tile_title: New Tiles
+  tile_style: style6
+  tile_cover: pic06.jpg
+  tile_text: >
+    Sed nisl arcu euismod sit amet nisi
+    lorem etiam dolor veroeros et feugiat.
+  tile_page: new-tiles

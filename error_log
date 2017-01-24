@@ -1,0 +1,2 @@
+[24-Jan-2017 20:17:57 UTC] PHP Fatal error:  Call to a member function url() on a non-object in /home/harvinde/public_html/manchesterspaceprogramme.org/kirby/site/snippets/common/header.php on line 7
+[24-Jan-2017 20:17:59 UTC] PHP Fatal error:  Call to a member function url() on a non-object in /home/harvinde/public_html/manchesterspaceprogramme.org/kirby/site/snippets/common/header.php on line 7
