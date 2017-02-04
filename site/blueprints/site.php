@@ -14,13 +14,19 @@ fields:
     type: text
   logo:
     label: Logo
-    type: text
+    type: image
+  banner:
+    label: Banner
+    type: image
   author:
     label: Author
     type:  text
   email:
     label: Email
     type: text
+  twitter:
+    label: Twitter
+    type: text  
   description:
     label: Description
     type:  textarea

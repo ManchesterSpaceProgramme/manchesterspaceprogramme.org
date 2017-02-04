@@ -20,8 +20,6 @@
 
             <?php snippet('common/header') ?>
 
-            <?php snippet('common/nav') ?>
-
             <!-- Main -->
             <div id="main">
                 <div class="inner">

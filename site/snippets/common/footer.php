@@ -1,7 +1,6 @@
 <!-- Footer -->
 <footer id="footer">
     <div class="inner">
-        <?php snippet('common/contact_form') ?>
 
         <?php snippet('common/social_icons') ?>
 
@@ -9,4 +8,5 @@
             <?php echo $site->copyright()->kirbytext() ?>
         </div>
     </div>
+    <?php echo ga(); ?>
 </footer>

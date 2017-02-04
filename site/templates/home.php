@@ -20,14 +20,19 @@
 
             <?php snippet('common/header') ?>
 
-            <?php snippet('common/nav') ?>
-
             <!-- Main -->
             <div id="main">
                 <div class="inner">
                     <header>
                         <h1><?php echo $page->head_title()->kirbytext() ?></h1>
-
+                        <span class="image main">
+                            <img src="<?php echo $site->image($site->banner())->url() ?>" />
+                        </span>
+                        <div class="twitter">
+                           <div class="button"></div>
+                           <div class="tweet"></div>
+                        </div>
+                        
                         <?php echo $page->head_text()->kirbytext() ?>
                     </header>
 
@@ -40,6 +45,6 @@
         </div>
 
         <?php snippet('common/foot_js') ?>
-
+        
     </body>
 </html>

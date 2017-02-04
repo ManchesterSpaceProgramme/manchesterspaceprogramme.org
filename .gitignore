@@ -13,6 +13,11 @@ Icon
 /site/cache/*
 !/site/cache/index.html
 
+# Content
+# ---------------
+
+/content/*
+
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
@@ -28,3 +33,8 @@ Icon
 
 /assets/avatars/*
 !/assets/avatars/index.html
+
+# License Key
+# --------------
+
+/site/config/*

@@ -10,7 +10,7 @@ Description:
 
 ----
 
-Keywords: Kirby,CMS,file-based
+Keywords: 
 
 ----
 
@@ -18,7 +18,7 @@ Copyright:
 
 - © (date: Year) All right reserved
 - Design: (link: http://html5up.net text: HTML5 UP)
-- Theme: (link: http://nunopress.com text: NunoPress LLC)
+- Modified Theme from (link: http://nunopress.com text: NunoPress LLC)
 
 ----
 
@@ -28,35 +28,31 @@ Social-icons:
   social_icon_class: fa-twitter
   social_icon_name: Twitter
   social_icon_url: http://twitter.com
-  social_icon_link: '#'
+  social_icon_link: https://twitter.com/mcrspaceprog
 - 
   social_icon_class: fa-facebook
   social_icon_name: Facebook
-  social_icon_link: '#'
-- 
-  social_icon_class: fa-instagram
-  social_icon_name: Instagram
-  social_icon_link: '#'
-- 
-  social_icon_class: fa-dribbble
-  social_icon_name: Dribbble
-  social_icon_link: '#'
+  social_icon_link: >
+    https://www.facebook.com/groups/205017353300315/
 - 
   social_icon_class: fa-github
   social_icon_name: GitHub
-  social_icon_link: '#'
+  social_icon_link: >
+    https://github.com/manchesterspaceprogramme
 - 
-  social_icon_class: fa-500px
-  social_icon_name: 500px
-  social_icon_link: '#'
-- 
-  social_icon_class: fa-phone
-  social_icon_name: Phone
-  social_icon_link: '#'
+  social_icon_class: fa-users
+  social_icon_name: Google Groups
+  social_icon_link: 'https://groups.google.com/forum/#!forum/manchester-space-programme'
 - 
   social_icon_class: fa-envelope-o
   social_icon_name: Email
-  social_icon_link: '#'
+  social_icon_link: >
+    mailto:manchesterspaceprogramme@gmail.com
+- 
+  social_icon_class: fa-book
+  social_icon_name: Wiki
+  social_icon_link: >
+    https://manchesterspaceprogramme.org/wiki
 
 ----
 
@@ -69,3 +65,11 @@ Site-title: Manchester Space Programme
 ----
 
 Logo: logo.svg
+
+----
+
+Twitter: mcrspaceprog
+
+----
+
+Banner: background_banner.png

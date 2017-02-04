@@ -2,7 +2,7 @@ Title: Manchester Space Programme
 
 ----
 
-Head-title: A sight for the stars
+Head-title: 
 
 ----
 
@@ -15,48 +15,26 @@ Tiles:
 - 
   tile_title: Missions
   tile_style: style1
-  tile_cover: pic01.jpg
-  tile_text: >
-    Sed nisl arcu euismod sit amet nisi
-    lorem etiam dolor veroeros et feugiat.
-  tile_page: tiles/magna
+  tile_cover: payload_electronics.jpg
+  tile_text: A look at our previous missions
+  tile_page: pages/missions
 - 
-  tile_title: Lorem
-  tile_style: style2
-  tile_cover: pic02.jpg
-  tile_text: >
-    Sed nisl arcu euismod sit amet nisi
-    lorem etiam dolor veroeros et feugiat.
-  tile_page: tiles/lorem
+  tile_title: Who we are
+  tile_style: style1
+  tile_cover: launch_day.jpg
+  tile_text: and what we have done
+  tile_page: pages/whatwedo
 - 
-  tile_title: Feugiat
-  tile_style: style3
-  tile_cover: pic03.jpg
+  tile_title: Piconaut
+  tile_style: style1
+  tile_cover: piconaut.jpg
   tile_text: >
-    Sed nisl arcu euismod sit amet nisi
-    lorem etiam dolor veroeros et feugiat.
-  tile_page: tiles/feugiat
+    An upcoming project for education
+    outreach
+  tile_page: pages/piconaut
 - 
-  tile_title: Tempus
-  tile_style: style4
-  tile_cover: pic04.jpg
-  tile_text: >
-    Sed nisl arcu euismod sit amet nisi
-    lorem etiam dolor veroeros et feugiat.
-  tile_page: tiles/tempus
-- 
-  tile_title: Aliquam
-  tile_style: style5
-  tile_cover: pic05.jpg
-  tile_text: >
-    Sed nisl arcu euismod sit amet nisi
-    lorem etiam dolor veroeros et feugiat.
-  tile_page: tiles/aliquam
-- 
-  tile_title: New Tiles
-  tile_style: style6
-  tile_cover: pic06.jpg
-  tile_text: >
-    Sed nisl arcu euismod sit amet nisi
-    lorem etiam dolor veroeros et feugiat.
-  tile_page: new-tiles
+  tile_title: Meetings
+  tile_style: style1
+  tile_cover: meeting.jpg
+  tile_text: Meeting information
+  tile_page: pages/meetings
