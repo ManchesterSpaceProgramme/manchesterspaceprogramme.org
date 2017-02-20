@@ -24,16 +24,8 @@
             <div id="main">
                 <div class="inner">
                     <h1><?php echo $page->title() ?></h1>
-
-                    <section class="gallery">
-                      <?php foreach($page->images() as $image): ?>
-                          <figure>
-                            <a href="<?php echo $image->url() ?>">
-                              <img src="<?php echo $image->url() ?>" alt="">
-                            </a>
-                          </figure>
-                      <?php endforeach ?>
-                    </section>
+                    
+                    <?php snippet('mission/infobox') ?>
 
                     <?php echo $page->text()->kirbytext() ?>
                 </div>
