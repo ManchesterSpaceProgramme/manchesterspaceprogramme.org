@@ -10,7 +10,7 @@
 	          count: 8,
 	          hideReplies: true,
 	          dateFormat: '%b. %d, %Y',
-	          template: '<strong class="date">{{date}}</strong> - {{tweet}}',
+	          template: '<strong class="date">{{date}}</strong> - {{tweet}} {{image}}',
 	          apiPath: 'assets/api/tweet.php'
 	      }, function () {
             setInterval(function() {

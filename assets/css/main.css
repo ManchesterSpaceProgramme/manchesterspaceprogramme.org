@@ -3376,7 +3376,7 @@
 
         .twitter ul {
             width: 99999px;
-            height: 100px;
+            height: 200px;
         }
 
         .twitter ul li {
@@ -3389,6 +3389,7 @@
         }
 
         .twitter .button {
+			float:left;
             text-decoration: none;
             background-color: rgb(105, 210, 231);
             background-repeat: no-repeat;

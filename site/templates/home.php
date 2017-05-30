@@ -29,7 +29,7 @@
                             <img src="<?php echo $site->image($site->banner())->url() ?>" />
                         </span>
                         <div class="twitter">
-                           <div class="button"></div>
+                           <!--div class="button"></div-->
                            <div class="tweet"></div>
                         </div>
                         
